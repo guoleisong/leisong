@@ -5,7 +5,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://39.105.189.130:3306/agrotechnical?characterEncoding=utf-8
     username: root
-    password: guoleisong01
+    password: *******
   jpa:
     database: mysql
     show-sql: true
